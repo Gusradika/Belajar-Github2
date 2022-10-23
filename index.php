@@ -18,6 +18,14 @@ $i += 100;
 
 <body>
     <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
+    <!-- Ini adalah komen -->
 
 
 
