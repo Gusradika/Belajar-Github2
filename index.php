@@ -18,6 +18,16 @@ $i += 100;
 
 <body>
     <!-- Ini adalah komen -->
+
+
+
+
+
+
+
+
+
+
     <h1><?php $i ?></h1>
 </body>
 
