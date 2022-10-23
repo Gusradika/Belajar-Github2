@@ -17,6 +17,7 @@ $i += 100;
 </head>
 
 <body>
+<<<<<<< HEAD
     <!-- Ini adalah komen -->
     <!-- Ini adalah komen -->
     <!-- Ini adalah komen -->
@@ -36,6 +37,15 @@ $i += 100;
 
 
 
+=======
+    <h1><?php $i ?></h1>
+    <h1><?php $i ?></h1>
+    <h1><?php $i ?></h1>
+    <h1><?php $i ?></h1>
+    <h1><?php $i ?></h1>
+    <h1><?php $i ?></h1>
+    <h1><?php $i ?></h1>
+>>>>>>> alvin
     <h1><?php $i ?></h1>
 </body>
 
