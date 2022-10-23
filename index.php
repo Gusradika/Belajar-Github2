@@ -17,27 +17,6 @@ $i += 100;
 </head>
 
 <body>
-<<<<<<< HEAD
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-    <!-- Ini adalah komen -->
-
-
-
-
-
-
-
-
-
-
-=======
     <h1><?php $i ?></h1>
     <h1><?php $i ?></h1>
     <h1><?php $i ?></h1>
@@ -45,8 +24,8 @@ $i += 100;
     <h1><?php $i ?></h1>
     <h1><?php $i ?></h1>
     <h1><?php $i ?></h1>
->>>>>>> alvin
     <h1><?php $i ?></h1>
+    <!-- Saya membuat komen terakhir -->
 </body>
 
 </html>
