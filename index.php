@@ -17,6 +17,7 @@ $i += 100;
 </head>
 
 <body>
+    <!-- Ini adalah komen -->
     <h1><?php $i ?></h1>
 </body>
 
